@@ -1,7 +1,7 @@
 # Exercices_cpp
 Augustin GIRAUDIER
 
-* Ceci est un exercice de C++ afin d'acquérir les bases de ce langage.
+* Ceci est un exercice de C++ que j'ai créé afin d'acquérir les bases de ce langage.
  Tous ces sujets y sont abordés :
  
 	- Classes / Encapsulation
